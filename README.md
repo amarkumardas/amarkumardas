@@ -1,7 +1,5 @@
 ### Hello I am Amar 👋
 
-
-- 🔭 I’m currently working on Wages Managment System of Site(Android Project)
  
 - 📫 How to reach me:  [linkedin](https://www.linkedin.com/in/amar-kumar-das/)
 
