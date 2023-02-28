@@ -9,11 +9,11 @@
 - -----------------------------------------------------------------------
 - TECHNICAL SKILLS:  
                                       
-- Programming Language- C,JAVA,PHP
+- Programming Language- C,JAVA
 - Database- Mysql,Sqlite,SQL
 - Tools and Packages- Android Stdio,Eclipse,Intellij,Netbeans,Codeblocks
 - DataStructure
-- Java Technology - JDBC,Spring boot
+- Java Technology - JDBC,Spring boot,Spring Rest
 
  
  
