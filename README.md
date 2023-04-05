@@ -11,7 +11,7 @@
 - Database- Mysql,Sqlite,SQL
 - Tools and Packages- Android Stdio,Eclipse,Intellij,Netbeans,Codeblocks
 - DataStructure
-- Java Technology - JDBC,Spring boot,Spring Rest
+- Java Technology - Spring boot,Spring Rest,Spring data jpa
 
  
  
